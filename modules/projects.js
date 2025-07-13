@@ -8,7 +8,7 @@
 * 
 *  Name: Siyang Jiang Student ID: 172747230 Date: Jun 21 2025
 *
-*  Published URL: ___________________________________________________________
+*  Published URL: https://assignment-03-nine-kohl.vercel.app
 *
 ********************************************************************************/
 const projectData = require("../data/projectData");
